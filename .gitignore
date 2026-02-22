@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# ChromaDB files (optional: remove if you want DB in repo)
+backend/chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
