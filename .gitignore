@@ -9,7 +9,7 @@ __pycache__/
 venv/
 .env/
 
-# ChromaDB files (optional: remove if you want DB in repo)
+# ChromaDB files 
 backend/chroma_db/
 
 # OS files
